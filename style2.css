@@ -1,0 +1,30 @@
+.desc {
+    text-align: center;
+    padding: 20px;
+    font: bold 80px Candara;
+}
+
+.voltar {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+.p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    
+}
+
+.h1, h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(139, 61, 61);
+    text-align: left;
+
+}

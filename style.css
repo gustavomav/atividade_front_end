@@ -1,0 +1,24 @@
+.title {
+    text-align: center;
+    justify-content: center;
+    font: bold 80px Candara;
+    padding: 10px;
+    
+}
+.img {
+    text-align: center;
+    padding: 10px;
+}
+.desc {
+    text-align: center;
+    justify-content: center;
+    font: normal 30px Cambria;
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+    color: rgb(59, 19, 203);
+    background-color: rgb(38, 179, 43);
+    border-radius: 30px;
+    padding: 5px;
+}
